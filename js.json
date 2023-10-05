@@ -1,8 +1,8 @@
 {"spider":"./f.jar",
  "sites":[
 {"key":"69mj","name":"美剧♻️业余","type":3,"api":"./cat/AppYsV2.js","ext":"https://www.69mj.com/xgapp.php/v2/"}, 
-{"key":"bulei","name":"不累[cat]","type":3,"api":"./cat/bulei_open.js"},
-{"key":"lbts","name":"老白[cat]","type":3,"api":"./cat/lbgs_book_open.js"},
+{"key":"bulei","name":"布雷[cat]","type":3,"api":"./cat/bulei_open.js"},
+//{"key":"lbts","name":"老白[cat]","type":3,"api":"./cat/lbgs_book_open.js"},
 {"key":"yqk","name":"一起看[cat]","type":3,"api":"./cat/yqktv_open.js"},
 {"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"./cat/ng_open.js"},
 {"key":"subaibai","name":"素白白[cat]","type":3,"api":"./cat/subaibai_open.js"},
